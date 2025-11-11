@@ -3,9 +3,7 @@ The world's simplest GUI-based Facial Recognition System built using the <a href
 <p align="center"> <img src="https://github.com/dhairyapatel1506/facial-recognition/assets/101339040/df7a5291-20ab-4004-a3cb-ee252bb38186"> </p>
 
 # Features
-- Can recgonize faces through images.
-- Can recognize faces in real-time through a webcam.
-- Can recognize faces through video.
+- Can recgonize faces through images, in real-time through a webcam and through recorded video.
 
 <!--# Requirements & Setup
 - First, refer <a href="https://github.com/ageitgey/face_recognition/#installation">this</a> for the requirements and to install all the basic dependencies.
